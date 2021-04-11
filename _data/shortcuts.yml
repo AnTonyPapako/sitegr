@@ -40,6 +40,16 @@ categories:
       - name: Η' Εξάμηνο (Π)
         url: "#η-εξαμηνο"
         external: false
+  - name: Μαθήματα Μεταπτυχιακό (Μ)
+    url: /courses/#μεταπτυχιακο
+    base_url: /courses/
+    links:
+      - name: Α' Εξάμηνο (Μ)
+        url: "#a-εξαμηνο-1"
+        external: false
+      - name: Β' Εξάμηνο (Μ)
+        url: "#β-εξαμηνο-1"
+        external: false
   - name: Εργαστήρια
     url: /groups/
     base_url: /groups/
